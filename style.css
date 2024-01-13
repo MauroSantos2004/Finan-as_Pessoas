@@ -1,0 +1,36 @@
+body{
+    background: linear-gradient(to right, #333333 , #2196f3);
+    /* Adicione outros estilos necessários para o seu elemento aqui */
+    color: #fff; /* Cor do texto para garantir contraste */
+    padding: 10px;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.bg-secondary{
+    background: linear-gradient(to right, #333333 , #2196f3);
+}
+
+#passar{
+    color: white; 
+    transition: color 0.3s ease;
+}
+#passar:hover{
+    color:#ffA500;
+}
+
+#passar:active{
+    color:#ffA500;
+}
+
+h1{
+    box-shadow: 1px 1px 2px rgba(0, 0, 0, 1.5);
+    font-family: 'Lato', sans-serif;
+
+    text-align: center;
+    text-transform: uppercase;
+}
+
+#modal_conteudo{
+    color: black;
+}
